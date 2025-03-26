@@ -4,7 +4,8 @@ I'll create a reformatted version of the sorting algorithm analysis:
 
 ## Sorting Algorithm Performance Analysis
 
-**Team Members:** Miles Whiteford & Aaron Gershkovich
+**Team Members:** Samuel Kelly and n/a
+
 
 ### Benchmark Results
 
