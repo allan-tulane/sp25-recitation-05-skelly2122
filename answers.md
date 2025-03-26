@@ -1,8 +1,4 @@
-I'll create a reformatted version of the sorting algorithm analysis:
-
-# CMPS 2200 - Recitation 5 Results
-
-## Sorting Algorithm Performance Analysis
+# CMPS 2200 - Recitation 5 
 
 **Team Members:** Samuel Kelly and n/a
 
